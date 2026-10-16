@@ -17,7 +17,7 @@ Baixe o APK na aba [**Releases**](https://github.com/helveciopereira/snapix/rele
 | `Snapix-v<versão>-armeabi-v7a.apk` | Celulares antigos, de 32 bits |
 | `Snapix-v<versão>-x86_64.apk` | Emuladores no PC |
 
-Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histórico ficam.
+Para atualizar: desde a **1.0.0** o próprio app avisa quando sai versão nova e instala com um toque (veja abaixo). Vindo de uma versão anterior, instale o APK novo por cima do antigo uma última vez. Seus downloads e o histórico ficam.
 
 ---
 
@@ -41,6 +41,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 - 🔔 **Notificação** com o progresso e o botão "Pausar tudo". É preciso permitir as notificações do Snapix.
 - 📁 **Organização:** os arquivos vão para `Download/Snapix/Snapix Video` e `Download/Snapix/Snapix Audio` e aparecem na hora na galeria e no tocador de música.
 - 🔄 **Motor sempre em dia:** o extrator (yt-dlp) se atualiza sozinho uma vez por dia. Quando um site muda, normalmente não é preciso instalar um APK novo.
+- ⬆️ **O app se atualiza pelo próprio app:** uma vez por dia o Snapix procura versão nova aqui no GitHub. Quando acha, aparece um aviso no topo da tela com **Atualizar**: ele baixa o APK certo para o seu celular, confere se o arquivo é idêntico ao publicado e abre o instalador do Android. Na primeira vez o Android pede para permitir que o Snapix instale apps. Também dá para procurar na hora em Configurações → Sistema.
 
 ---
 
@@ -48,7 +49,6 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 
 - 🖼️ **Capa do vídeo dentro do MP3**, que aparece no tocador de música.
 - 🎚️ **MP3 mais leve** (128 kbps), para economizar espaço.
-- ⬆️ **Atualização do app pelo próprio app:** ele avisa quando sai versão nova aqui no GitHub.
 - 🧭 **Navegador embutido com detector de vídeo:** você abre a página, e o Snapix encontra o vídeo.
 - 📚 **Biblioteca:** busca, filtros e reprodução dos arquivos baixados.
 
