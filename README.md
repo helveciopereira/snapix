@@ -29,8 +29,8 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
   - **MP3 320 kbps** (alta qualidade) ou **192 kbps**, com título e artista gravados no arquivo;
   - ou o **áudio original** do site (M4A/AAC ou Opus), sem conversão e sem perda.
 - 🎬 **Vídeo MP4 em todas as resoluções que o site oferecer**, de 144p até 4K.
-  - Até 1080p sai em **H.264**, que toca em qualquer aparelho.
-  - 1440p e 4K saem em VP9/AV1, porque é assim que o YouTube entrega. O app avisa que esses formatos podem não tocar em celulares antigos.
+  - Escolha nas Configurações o **Codec de vídeo preferido**: **H.264** (compatibilidade total: toca em qualquer aparelho, TV e no WhatsApp) ou **AV1** (ultra-econômico: economiza até 50% de espaço e dados móveis em celulares modernos).
+  - 1440p e 4K saem em VP9/AV1, porque é assim que o YouTube entrega. O app avisa quando o formato exige decodificação moderna.
 - 🔊 **Áudio do vídeo sempre em AAC:** quando o site só tem Opus, o Snapix converte só o áudio para AAC 192 kbps. A imagem é copiada sem perda.
 - 🌐 **Idioma original:** nos vídeos do YouTube com dublagem automática, o áudio baixado é o do idioma original.
 - 🌐 **Mais de mil sites:** redes sociais, sites de vídeo e de áudio, sites adultos e links diretos para arquivos de vídeo. Quando o site não informa a resolução, aparece a opção **Original do site**. Quando um link não baixa, o app diz o motivo em português (login exigido, bloqueio anti-robô, post só com foto…).
