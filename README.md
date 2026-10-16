@@ -69,8 +69,8 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 
 ## ⚠️ Limitações conhecidas
 
-- Conteúdo que exige login (posts sensíveis do X, Reddit, alguns vídeos do Vimeo) não baixa: o Snapix não usa sua conta.
-- Sites com proteção anti-robô (Dailymotion e alguns sites adultos, por exemplo) ainda não baixam.
+- Conteúdo que exige login (posts sensíveis do X, Reddit, Instagram privado) não baixa: o Snapix não usa sua conta.
+- Sites com proteção anti-robô (Dailymotion, PornHub e outros) só baixam no APK **arm64-v8a**, que traz o componente que imita um navegador. Nos APKs de 32 bits e de emulador eles continuam bloqueados.
 - Fotos não são baixadas, só vídeo e áudio.
 - O tamanho mostrado antes de baixar é uma estimativa e pode variar um pouco.
 
