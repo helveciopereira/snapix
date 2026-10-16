@@ -33,6 +33,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
   - 1440p e 4K saem em VP9/AV1, porque é assim que o YouTube entrega. O app avisa que esses formatos podem não tocar em celulares antigos.
 - 🔊 **Áudio do vídeo sempre em AAC:** quando o site só tem Opus, o Snapix converte só o áudio para AAC 192 kbps. A imagem é copiada sem perda.
 - 🌐 **Idioma original:** nos vídeos do YouTube com dublagem automática, o áudio baixado é o do idioma original.
+- 📡 **Monitor de conexões:** toque num download em andamento para ver as conexões abertas, a velocidade com gráfico ao vivo, quanto já baixou e o tempo restante.
 - ⚡ **Várias conexões ao mesmo tempo:** cada arquivo é baixado em até **10 partes simultâneas** (aria2c). A velocidade fica limitada pela sua internet, não por uma conexão só.
 - 🗂️ **Fila:** até **5 downloads ao mesmo tempo**; o resto espera a vez. Dá para **pausar e retomar** de onde parou, mesmo depois de fechar o app, e para cancelar, o que apaga os pedaços já baixados.
 - 🌙 **Tela desligada:** o download continua com a tela apagada.
