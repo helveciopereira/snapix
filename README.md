@@ -23,7 +23,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 
 ## ✨ O que o Snapix faz hoje
 
-- 🎨 **Visual Nordic Minimal:** tema escuro em ardósia e violeta, com cartões finos e translúcidos. Você escolhe o formato num seletor que já vem com a melhor opção marcada (o H.264 mais alto até 1080p) e vê o tamanho antes de tocar em **Baixar Mídia**. Na gaveta, **Copiar Link** copia o endereço do vídeo.
+- 🎨 **Visual Nordic Minimal:** tema escuro em ardósia e violeta, com cartões finos e translúcidos. Todas as resoluções e os áudios aparecem numa grade compacta, sem rolar, e o botão **Baixar** fica sempre à vista com o formato e o tamanho. A opção marcada segue a **Resolução padrão** que você escolhe nas Configurações. Na gaveta, **Copiar Link** copia o endereço do vídeo.
 - 📲 **Compartilhar → Snapix:** no YouTube, no X ou no navegador, toque em Compartilhar e escolha o Snapix. Uma gaveta abre por cima do app, já com as opções. Você toca em **Baixar** e volta para onde estava; o download segue em segundo plano.
 - 🎵 **Áudio:**
   - **MP3 320 kbps** (alta qualidade) ou **192 kbps**, com título e artista gravados no arquivo;
@@ -35,7 +35,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 - 🌐 **Idioma original:** nos vídeos do YouTube com dublagem automática, o áudio baixado é o do idioma original.
 - 🌐 **Mais de mil sites:** redes sociais, sites de vídeo e de áudio, sites adultos e links diretos para arquivos de vídeo. Quando o site não informa a resolução, aparece a opção **Original do site**. Quando um link não baixa, o app diz o motivo em português (login exigido, bloqueio anti-robô, post só com foto…).
 - 📡 **Monitor de conexões:** toque num download em andamento para ver as conexões abertas, a velocidade com gráfico ao vivo, quanto já baixou e o tempo restante.
-- ⚡ **Várias conexões ao mesmo tempo:** cada arquivo é baixado em até **10 partes simultâneas** (aria2c). A velocidade fica limitada pela sua internet, não por uma conexão só.
+- ⚡ **Várias conexões ao mesmo tempo:** cada arquivo é baixado em **4, 8, 10 ou 16 partes simultâneas** (aria2c), à sua escolha nas Configurações. A velocidade fica limitada pela sua internet, não por uma conexão só.
 - 🗂️ **Fila:** até **5 downloads ao mesmo tempo**; o resto espera a vez. Dá para **pausar e retomar** de onde parou, mesmo depois de fechar o app, e para cancelar, o que apaga os pedaços já baixados.
 - 🌙 **Tela desligada:** o download continua com a tela apagada.
 - 🔔 **Notificação** com o progresso e o botão "Pausar tudo". É preciso permitir as notificações do Snapix.
