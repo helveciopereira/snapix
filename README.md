@@ -23,7 +23,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 
 ## ✨ O que o Snapix faz hoje
 
-- 🎨 **Visual Nordic Minimal:** tema escuro em ardósia e violeta. Você escolhe o formato num seletor que já vem com a melhor opção marcada (o H.264 mais alto até 1080p) e vê o tamanho antes de tocar em **Baixar**.
+- 🎨 **Visual Nordic Minimal:** tema escuro em ardósia e violeta, com cartões finos e translúcidos. Você escolhe o formato num seletor que já vem com a melhor opção marcada (o H.264 mais alto até 1080p) e vê o tamanho antes de tocar em **Baixar Mídia**. Na gaveta, **Copiar Link** copia o endereço do vídeo.
 - 📲 **Compartilhar → Snapix:** no YouTube, no X ou no navegador, toque em Compartilhar e escolha o Snapix. Uma gaveta abre por cima do app, já com as opções. Você toca em **Baixar** e volta para onde estava; o download segue em segundo plano.
 - 🎵 **Áudio:**
   - **MP3 320 kbps** (alta qualidade) ou **192 kbps**, com título e artista gravados no arquivo;
@@ -45,7 +45,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 ## 🛠️ Próximas melhorias
 
 - 🖼️ **Capa do vídeo dentro do MP3**, que aparece no tocador de música.
-- 🎚️ **Mais qualidades de MP3** (128 e 320 kbps).
+- 🎚️ **MP3 mais leve** (128 kbps), para economizar espaço.
 - ⬆️ **Atualização do app pelo próprio app:** ele avisa quando sai versão nova aqui no GitHub.
 - 🧭 **Navegador embutido com detector de vídeo:** você abre a página, e o Snapix encontra o vídeo.
 - 📚 **Biblioteca:** busca, filtros e reprodução dos arquivos baixados.
