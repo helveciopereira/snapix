@@ -1,6 +1,6 @@
 # Snapix
 
-**Baixe vídeos e áudios do YouTube, do X, do Instagram e de páginas da web direto no Android, sem anúncios.**
+**Baixe vídeos e áudios do YouTube, do X, do Instagram, do Facebook e de mais de mil outros sites direto no Android, sem anúncios.**
 
 [![Versão mais recente](https://img.shields.io/github/v/release/helveciopereira/snapix?style=for-the-badge&color=8B5CF6&label=Vers%C3%A3o)](https://github.com/helveciopereira/snapix/releases/latest)
 ![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-0F131D?style=for-the-badge)
@@ -33,6 +33,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
   - 1440p e 4K saem em VP9/AV1, porque é assim que o YouTube entrega. O app avisa que esses formatos podem não tocar em celulares antigos.
 - 🔊 **Áudio do vídeo sempre em AAC:** quando o site só tem Opus, o Snapix converte só o áudio para AAC 192 kbps. A imagem é copiada sem perda.
 - 🌐 **Idioma original:** nos vídeos do YouTube com dublagem automática, o áudio baixado é o do idioma original.
+- 🌐 **Mais de mil sites:** redes sociais, sites de vídeo e de áudio, sites adultos e links diretos para arquivos de vídeo. Quando o site não informa a resolução, aparece a opção **Original do site**. Quando um link não baixa, o app diz o motivo em português (login exigido, bloqueio anti-robô, post só com foto…).
 - 📡 **Monitor de conexões:** toque num download em andamento para ver as conexões abertas, a velocidade com gráfico ao vivo, quanto já baixou e o tempo restante.
 - ⚡ **Várias conexões ao mesmo tempo:** cada arquivo é baixado em até **10 partes simultâneas** (aria2c). A velocidade fica limitada pela sua internet, não por uma conexão só.
 - 🗂️ **Fila:** até **5 downloads ao mesmo tempo**; o resto espera a vez. Dá para **pausar e retomar** de onde parou, mesmo depois de fechar o app, e para cancelar, o que apaga os pedaços já baixados.
@@ -68,7 +69,9 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 
 ## ⚠️ Limitações conhecidas
 
-- Posts do X que exigem login (conteúdo sensível ou restrito) não baixam: o Snapix não usa sua conta.
+- Conteúdo que exige login (posts sensíveis do X, Reddit, alguns vídeos do Vimeo) não baixa: o Snapix não usa sua conta.
+- Sites com proteção anti-robô (Dailymotion e alguns sites adultos, por exemplo) ainda não baixam.
+- Fotos não são baixadas, só vídeo e áudio.
 - O tamanho mostrado antes de baixar é uma estimativa e pode variar um pouco.
 
 ## ⚖️ Uso responsável
