@@ -1,66 +1,76 @@
-# Snapix — Aplicativo Android de Download e Extração de Mídia
+# Snapix
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/helveciopereira/snapix/main/assets/ic_launcher.png" width="96" height="96" alt="Snapix Logo" onerror="this.style.display='none'"/>
-</p>
+**Baixe vídeos e áudios do YouTube, do X, do Instagram e de páginas da web direto no Android, sem anúncios.**
 
-<p align="center">
-  <strong>Baixe vídeos e extraia áudios do YouTube, X.com e páginas da web com máxima velocidade e sem anúncios.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/helveciopereira/snapix/releases/latest">
-    <img src="https://img.shields.io/github/v/release/helveciopereira/snapix?style=for-the-badge&color=00D2C4&label=Vers%C3%A3o%20Mais%20Recente" alt="Latest Release"/>
-  </a>
-  <img src="https://img.shields.io/badge/Android-7.0%2B%20(API%2024%2B)-00696B?style=for-the-badge" alt="Android Version"/>
-  <img src="https://img.shields.io/badge/Status-Est%C3%A1vel-success?style=for-the-badge" alt="Status"/>
-</p>
+[![Versão mais recente](https://img.shields.io/github/v/release/helveciopereira/snapix?style=for-the-badge&color=8B5CF6&label=Vers%C3%A3o)](https://github.com/helveciopereira/snapix/releases/latest)
+![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-0F131D?style=for-the-badge)
 
 ---
 
-## 📥 Downloads Oficiais (APKs)
+## 📥 Download
 
-Baixe a versão correspondente à arquitetura do seu aparelho diretamente na aba [**Releases**](https://github.com/helveciopereira/snapix/releases):
+Baixe o APK na aba [**Releases**](https://github.com/helveciopereira/snapix/releases/latest):
 
-| Arquitetura | Arquivo APK | Recomendação |
-|---|---|---|
-| **ARM64 (64 bits)** | `app-arm64-v8a-*.apk` | **Recomendado para 99% dos celulares modernos** (Samsung, Xiaomi, Motorola, etc.) |
-| **ARMv7 (32 bits)** | `app-armeabi-v7a-*.apk` | Para aparelhos antigos com processador de 32 bits |
-| **x86_64** | `app-x86_64-*.apk` | Para emuladores de PC (Android Studio, BlueStacks, etc.) |
+| Arquivo | Para quem |
+|---|---|
+| `Snapix-v<versão>-arm64-v8a.apk` | **Quase todos os celulares atuais** (Samsung, Xiaomi, Motorola…). Se estiver em dúvida, é este. |
+| `Snapix-v<versão>-armeabi-v7a.apk` | Celulares antigos, de 32 bits |
+| `Snapix-v<versão>-x86_64.apk` | Emuladores no PC |
 
-👉 **[Acesse todos os lançamentos em GitHub Releases](https://github.com/helveciopereira/snapix/releases)**
-
----
-
-## ✨ Principais Recursos
-
-* 📲 **Receptor Rápido no Compartilhar:** No YouTube, no X.com ou no navegador, toque em **Compartilhar ➔ Snapix** para abrir uma gaveta instantânea com as opções de download, sem sair do aplicativo original.
-* 🎵 **Extração de Áudio com Metadados:** Salve em MP3 (128 kbps, 192 kbps ou 320 kbps HQ) ou em AAC original sem perda, com injeção automática de capa e título/artista.
-* 🎬 **Vídeo em Alta Definição:** MP4 em 360p, 480p, 720p HD e 1080p Full HD (com muxing automático de fluxos adaptativos).
-* ⚡ **Download Ultra-Rápido:** Motor otimizado com até 10 conexões simultâneas por arquivo (via aria2c).
-* 🛡️ **Fila Robusta em Segundo Plano:** Baixe até 5 itens simultaneamente com suporte a pausar, retomar de onde parou e proteção contra encerramento com a tela desligada (Wake Lock + Wi-Fi Lock).
-* 📁 **Organização Automática:** Arquivos salvos diretamente em `Download/Snapix/Snapix Video` e `Download/Snapix/Snapix Audio`, visíveis na hora na galeria e no seu tocador de música.
-* 🔄 **Auto-atualização do Extrator:** O motor interno do yt-dlp atualiza silenciosamente para se adaptar a mudanças nas plataformas sem exigir reinstalação constante do APK.
+Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histórico ficam.
 
 ---
 
-## 📲 Como Instalar no Celular
+## ✨ O que o Snapix faz hoje
 
-1. Baixe o arquivo `.apk` da arquitetura do seu celular na seção [**Releases**](https://github.com/helveciopereira/snapix/releases).
-2. Abra o arquivo baixado nas notificações ou no gerenciador de arquivos do seu celular.
-3. Se solicitado, autorize a instalação de aplicativos de fontes confiáveis no navegador ou gerenciador de arquivos.
-4. Toque em **Instalar** e pronto!
+- 📲 **Compartilhar → Snapix:** no YouTube, no X ou no navegador, toque em Compartilhar e escolha o Snapix. Uma gaveta abre por cima do app, já com as opções. Você toca em **Baixar** e volta para onde estava; o download segue em segundo plano.
+- 🎵 **Áudio:**
+  - **MP3 192 kbps**, com título e artista gravados no arquivo;
+  - ou o **áudio original** do site (M4A/AAC ou Opus), sem conversão e sem perda.
+- 🎬 **Vídeo MP4 em todas as resoluções que o site oferecer**, de 144p até 4K.
+  - Até 1080p sai em **H.264**, que toca em qualquer aparelho.
+  - 1440p e 4K saem em VP9/AV1, porque é assim que o YouTube entrega. O app avisa que esses formatos podem não tocar em celulares antigos.
+- 🔊 **Áudio do vídeo sempre em AAC:** quando o site só tem Opus, o Snapix converte só o áudio para AAC 192 kbps. A imagem é copiada sem perda.
+- 🌐 **Idioma original:** nos vídeos do YouTube com dublagem automática, o áudio baixado é o do idioma original.
+- ⚡ **Várias conexões ao mesmo tempo:** cada arquivo é baixado em até **10 partes simultâneas** (aria2c). A velocidade fica limitada pela sua internet, não por uma conexão só.
+- 🗂️ **Fila:** até **5 downloads ao mesmo tempo**; o resto espera a vez. Dá para **pausar e retomar** de onde parou, mesmo depois de fechar o app, e para cancelar, o que apaga os pedaços já baixados.
+- 🌙 **Tela desligada:** o download continua com a tela apagada.
+- 🔔 **Notificação** com o progresso e o botão "Pausar tudo". É preciso permitir as notificações do Snapix.
+- 📁 **Organização:** os arquivos vão para `Download/Snapix/Snapix Video` e `Download/Snapix/Snapix Audio` e aparecem na hora na galeria e no tocador de música.
+- 🔄 **Motor sempre em dia:** o extrator (yt-dlp) se atualiza sozinho uma vez por dia. Quando um site muda, normalmente não é preciso instalar um APK novo.
 
 ---
 
-## 📋 Requisitos de Sistema
+## 🛠️ Próximas melhorias
 
-* **Sistema Operacional:** Android 7.0 (Nougat / API 24) ou superior.
-* **Armazenamento:** Recomendado pelo menos 150 MB livres para cache temporário de muxing.
-* **Rede:** Conexão com a internet (Wi-Fi ou dados móveis).
+- 🖼️ **Capa do vídeo dentro do MP3**, que aparece no tocador de música.
+- 🎚️ **Mais qualidades de MP3** (128 e 320 kbps).
+- ⬆️ **Atualização do app pelo próprio app:** ele avisa quando sai versão nova aqui no GitHub.
+- 🧭 **Navegador embutido com detector de vídeo:** você abre a página, e o Snapix encontra o vídeo.
+- 📚 **Biblioteca:** busca, filtros e reprodução dos arquivos baixados.
+- 🎨 **Visual Nordic Minimal completo**, com cartões de opção e botão de destaque.
+- 🧩 **Ajustes de tela:** tamanhos acima de 1 GB em "GB" e a última opção da gaveta livre da barra de navegação.
 
 ---
 
-## ⚖️ Uso Responsável
+## 📲 Como instalar
 
-O Snapix é uma ferramenta de utilidade para uso pessoal. Utilize para arquivar mídias de sua propriedade, sob licenças abertas (Creative Commons) ou cujo download seja autorizado pelos respectivos autores.
+1. Baixe o `.apk` da aba [Releases](https://github.com/helveciopereira/snapix/releases/latest).
+2. Abra o arquivo pela notificação ou pelo gerenciador de arquivos.
+3. Se o Android pedir, permita "instalar apps desta fonte".
+4. Toque em **Instalar**.
+
+## 📋 Requisitos
+
+- Android **7.0** ou mais novo.
+- Espaço livre de pelo menos o dobro do vídeo durante o download, porque vídeo e áudio são juntados no celular.
+- Internet (Wi-Fi ou dados móveis).
+
+## ⚠️ Limitações conhecidas
+
+- Posts do X que exigem login (conteúdo sensível ou restrito) não baixam: o Snapix não usa sua conta.
+- O tamanho mostrado antes de baixar é uma estimativa e pode variar um pouco.
+
+## ⚖️ Uso responsável
+
+O Snapix é uma ferramenta para uso pessoal. Baixe mídias que são suas, que estão sob licença aberta (Creative Commons) ou cujo download o autor autoriza.
