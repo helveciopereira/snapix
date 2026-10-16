@@ -26,7 +26,7 @@ Para atualizar, instale o APK novo por cima do antigo. Seus downloads e o histó
 - 🎨 **Visual Nordic Minimal:** tema escuro em ardósia e violeta. Você escolhe o formato num seletor que já vem com a melhor opção marcada (o H.264 mais alto até 1080p) e vê o tamanho antes de tocar em **Baixar**.
 - 📲 **Compartilhar → Snapix:** no YouTube, no X ou no navegador, toque em Compartilhar e escolha o Snapix. Uma gaveta abre por cima do app, já com as opções. Você toca em **Baixar** e volta para onde estava; o download segue em segundo plano.
 - 🎵 **Áudio:**
-  - **MP3 192 kbps**, com título e artista gravados no arquivo;
+  - **MP3 320 kbps** (alta qualidade) ou **192 kbps**, com título e artista gravados no arquivo;
   - ou o **áudio original** do site (M4A/AAC ou Opus), sem conversão e sem perda.
 - 🎬 **Vídeo MP4 em todas as resoluções que o site oferecer**, de 144p até 4K.
   - Até 1080p sai em **H.264**, que toca em qualquer aparelho.
