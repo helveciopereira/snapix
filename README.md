@@ -7,15 +7,18 @@
 
 ---
 
-## 📥 Download
+## 📥 Download Direto (Versão Mais Recente)
 
-Baixe o APK na aba [**Releases**](https://github.com/helveciopereira/snapix/releases/latest):
+Estes links são **permanentes e sempre baixam a versão mais recente** do Snapix:
 
-| Arquivo | Para quem |
-|---|---|
-| `Snapix-v<versão>-arm64-v8a.apk` | **Quase todos os celulares atuais** (Samsung, Xiaomi, Motorola…). Se estiver em dúvida, é este. |
-| `Snapix-v<versão>-armeabi-v7a.apk` | Celulares antigos, de 32 bits |
-| `Snapix-v<versão>-x86_64.apk` | Emuladores no PC |
+| Arquivo | Para quem | Download Direto |
+|---|---|---|
+| **`Snapix-arm64-v8a.apk`** | **Quase todos os celulares atuais** (Samsung, Xiaomi, Motorola…). Se estiver em dúvida, é este. | [⬇️ **Baixar (arm64)**](https://github.com/helveciopereira/snapix/releases/latest/download/Snapix-arm64-v8a.apk) |
+| **`Snapix.apk`** | Link direto padrão (cópia arm64 para compartilhamento fácil) | [⬇️ **Baixar Snapix.apk**](https://github.com/helveciopereira/snapix/releases/latest/download/Snapix.apk) |
+| **`Snapix-armeabi-v7a.apk`** | Celulares antigos, de 32 bits | [⬇️ **Baixar (32 bits)**](https://github.com/helveciopereira/snapix/releases/latest/download/Snapix-armeabi-v7a.apk) |
+| **`Snapix-x86_64.apk`** | Emuladores no PC | [⬇️ **Baixar (x86_64)**](https://github.com/helveciopereira/snapix/releases/latest/download/Snapix-x86_64.apk) |
+
+Você também pode consultar o histórico de versões na aba [**Releases**](https://github.com/helveciopereira/snapix/releases).
 
 Para atualizar: desde a **1.0.0** o próprio app avisa quando sai versão nova e instala com um toque (veja abaixo). Vindo de uma versão anterior, instale o APK novo por cima do antigo uma última vez. Seus downloads e o histórico ficam.
 
