@@ -39,6 +39,7 @@ Para atualizar: desde a **1.0.0** o próprio app avisa quando sai versão nova e
 - 🌐 **Mais de mil sites:** redes sociais, sites de vídeo e de áudio, sites adultos e links diretos para arquivos de vídeo. Quando o site não informa a resolução, aparece a opção **Original do site**. Quando um link não baixa, o app diz o motivo em português (login exigido, bloqueio anti-robô, post só com foto…).
 - 📡 **Monitor de conexões:** toque num download em andamento para ver as conexões abertas, a velocidade com gráfico ao vivo, quanto já baixou e o tempo restante.
 - ⚡ **Várias conexões ao mesmo tempo:** cada arquivo é baixado em **4, 8, 10 ou 16 partes simultâneas** (aria2c), à sua escolha nas Configurações. A velocidade fica limitada pela sua internet, não por uma conexão só.
+- 🌐 **Navegador com detector de vídeo:** na aba **Navegador**, abra qualquer site. Quando a página carrega ou toca um vídeo, aparece **"N vídeos encontrados"**: transmissões, arquivos MP4/MP3, players do YouTube ou Vimeo embutidos em matérias e, no YouTube, no X e no Instagram, o vídeo da própria página. Toque num item e escolha a qualidade. Funciona em portais como CNN Brasil, g1 e UOL, que recusam download de fora: o Snapix envia junto a página de origem e os cookies do site, sem gravá-los.
 - 🗑️ **Apagar com escolha:** cada download concluído tem uma lixeira. Ao tocar nela, você escolhe entre **Apagar do aparelho** (exclui o arquivo de `Download/Snapix` e tira da lista) e **Remover só da lista** (o arquivo continua na galeria e no player).
 - 👆 **Segure o cartão** de um download concluído para abrir o menu: ▶ **Reproduzir**, ↗ **Compartilhar** (WhatsApp, Telegram…), ↻ **Baixar novamente** (em outra qualidade, por exemplo) e 🗑 **Apagar**. Cada cartão mostra a capa, a duração, o tamanho real, o canal, o site e a hora em que terminou.
 - 🗂️ **Fila:** até **5 downloads ao mesmo tempo**; o resto espera a vez. Dá para **pausar e retomar** de onde parou, mesmo depois de fechar o app, e para cancelar, o que apaga os pedaços já baixados.
@@ -54,7 +55,6 @@ Para atualizar: desde a **1.0.0** o próprio app avisa quando sai versão nova e
 
 - 🖼️ **Capa do vídeo dentro do MP3**, que aparece no tocador de música.
 - 🎚️ **MP3 mais leve** (128 kbps), para economizar espaço.
-- 🧭 **Navegador embutido com detector de vídeo:** você abre a página, e o Snapix encontra o vídeo.
 - 📚 **Biblioteca:** busca, filtros e reprodução dos arquivos baixados.
 
 ---
