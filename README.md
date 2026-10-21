@@ -76,6 +76,7 @@ Para atualizar: desde a **1.0.0** o próprio app avisa quando sai versão nova e
 
 - Conteúdo que exige login (posts sensíveis do X, Reddit, Instagram privado) não baixa: o Snapix não usa sua conta.
 - Sites com proteção anti-robô (Dailymotion, PornHub e outros) só baixam no APK **arm64-v8a**, que traz o componente que imita um navegador. Nos APKs de 32 bits e de emulador eles continuam bloqueados.
+- **Stories do Instagram ainda não baixam**, nem com login: o Instagram desativou a API que o motor usa (erro 500). Quando o motor for corrigido, a atualização automática deve bastar.
 - Fotos não são baixadas, só vídeo e áudio.
 - O tamanho mostrado antes de baixar é uma estimativa e pode variar um pouco.
 
